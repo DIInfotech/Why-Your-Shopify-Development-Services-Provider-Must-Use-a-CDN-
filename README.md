@@ -1,0 +1,2 @@
+# Why-Your-Shopify-Development-Services-Provider-Must-Use-a-CDN-
+CDNs not only load eCommerce website pages more quickly but also support more users without any glitches. They can simultaneously redirect traffic of busy servers to other servers for better balance, reduce local network traffic congestion, and prevent single-point server failures. The advantages of CDNs are immense in Shopify Theme Development. 
